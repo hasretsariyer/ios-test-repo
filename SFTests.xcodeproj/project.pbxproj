@@ -605,7 +605,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = app.SFTests.Release;
+				PRODUCT_BUNDLE_IDENTIFIER = io.appcircle.fastlanesample-v15;
 				PRODUCT_NAME = "$(TARGET_NAME)Release";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
