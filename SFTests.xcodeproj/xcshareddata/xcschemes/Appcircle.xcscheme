@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "46D6CB5A25A5A58F007333A0"
-               BuildableName = "SFTests.app"
+               BuildableName = "SFTestsRelease.app"
                BlueprintName = "SFTests"
                ReferencedContainer = "container:SFTests.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "46D6CB5A25A5A58F007333A0"
-            BuildableName = "SFTests.app"
+            BuildableName = "SFTestsRelease.app"
             BlueprintName = "SFTests"
             ReferencedContainer = "container:SFTests.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "46D6CB5A25A5A58F007333A0"
-            BuildableName = "SFTests.app"
+            BuildableName = "SFTestsRelease.app"
             BlueprintName = "SFTests"
             ReferencedContainer = "container:SFTests.xcodeproj">
          </BuildableReference>

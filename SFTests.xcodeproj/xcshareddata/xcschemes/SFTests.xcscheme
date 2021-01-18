@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "46D6CB5A25A5A58F007333A0"
-               BuildableName = "SFTests.app"
+               BuildableName = "SFTestsRelease.app"
                BlueprintName = "SFTests"
                ReferencedContainer = "container:SFTests.xcodeproj">
             </BuildableReference>
@@ -51,7 +51,7 @@
       </Testables>
    </TestAction>
    <LaunchAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
@@ -65,7 +65,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "46D6CB5A25A5A58F007333A0"
-            BuildableName = "SFTests.app"
+            BuildableName = "SFTestsRelease.app"
             BlueprintName = "SFTests"
             ReferencedContainer = "container:SFTests.xcodeproj">
          </BuildableReference>
@@ -82,7 +82,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "46D6CB5A25A5A58F007333A0"
-            BuildableName = "SFTests.app"
+            BuildableName = "SFTestsRelease.app"
             BlueprintName = "SFTests"
             ReferencedContainer = "container:SFTests.xcodeproj">
          </BuildableReference>
